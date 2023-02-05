@@ -24,6 +24,4 @@ N/A
 GitHub profile: [tmcash](https://www.github.com/tmcash)    
 Email address: t.cash15@yahoo.com  
 Please email me to reach me with additional questions.
-## Demonstration
-* Github Repository: https://github.com/tmcash/readme-terminal-input
-* Video Demonstration: https://drive.google.com/file/d/1c8vYDYwDUYEPAJ4pQcCt7h2bKhnFZnTM/view
+
